@@ -1,3 +1,4 @@
+I am not maintaining for Cyanogenmod. This is proof of concept only
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
